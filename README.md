@@ -8,13 +8,18 @@ The Kiev Metro Route Finder project offers a Python-based application designed t
 ## Features
 
 - **Graphical Interface**: The application's graphical user interface allows users to effortlessly choose their starting and ending stations from a dropdown menu.
+
+<p align="center">
 <img width="600" alt="image" src="https://github.com/lucia-jiang/metroRouteFinder/assets/104275311/b281be6a-6d0c-475b-9542-b2e32dddf331">
+</p>
 
 - **Optimal Route Visualization**: Upon station selection, the application generates a clear visualization of the optimal route overlaid on the metro map. This graphical representation aids users in understanding their journey.
 
 - **Key Metrics**: The application provides crucial metrics, including the total cost, travel time, number of transfers, and an estimated time of arrival at the destination.
 
+<p align="center">
 <img width="600" alt="image" src="https://github.com/lucia-jiang/metroRouteFinder/assets/104275311/8bbbca8d-3554-4fa2-8b35-5d3384188fb8">
+</p>
 
 ## Installation
 
@@ -24,5 +29,5 @@ To run the Kiev Metro Route Finder on your machine, follow these steps:
 3. Install the required libraries using the following command:
 ```pip install tk tkthemes```
 4. Run the application by executing the following command in the terminal:
-```python main.py```
+```python metro.py```
 
